@@ -9,5 +9,9 @@
             android:title="item 2" />
     <group />
 
+    <group android:id="@+id/intent_group">
+
+    </group>
+
 
 </menu> 
